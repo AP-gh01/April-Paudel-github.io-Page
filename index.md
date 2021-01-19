@@ -14,6 +14,6 @@ Ventas - 28045, Cuidad Lineal - Madrid
 Calle miguel ferrán, 52
 Estrella - 28019, Moratalaz - Madrid  
 
-**Beacause of the current sittuation due to Covid it is highly recomendable to have an appointment, or if not we may not be able to attend you*
-For appointment visit us at: 
+**Because of the current sittuation due to Covid it is highly recomendable to have an appointment, or if not we may not be able to attend you.*
+For appointment visit us at: www.backfireentertainment.com/contact/support/appointment / Customers are requested to cancel the appointment in case of your inadequate absence. 
 
