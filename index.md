@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## We are the Backfire Entertainment Corp. Welcome to our customer support.
+If you have any enquiries realted to our software malfunction or bugs feel free to contact us. Our customers service is active 24/7 and 365 days a year. Mean, **WE NEVER STOP!**
 
-You can use the [editor on GitHub](https://github.com/AP-gh01/April-Paudel-github.io-Page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AP-gh01/April-Paudel-github.io-Page/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
+Having trouble with Pages? Check out our [documentation](https://www.Backfireentertainment.com/contact) or [contact support](https://support.Backfireentertainment) and we’ll help you sort it out.
+For further information visit us at:
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+### Our Branches
+Calle alcala, 257                                 
+Ventas - 28045, Cuidad Lineal - Madrid                
+
+Calle miguel ferrán, 52
+Estrella - 28019, Moratalaz - Madrid  
+
+**Beacause of the current sittuation due to Covid it is highly recomendable to have an appointment, or if not we may not be able to attend you*
+For appointment visit us at: 
+
