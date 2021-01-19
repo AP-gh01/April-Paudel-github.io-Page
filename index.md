@@ -15,6 +15,6 @@ Calle miguel herrán, 257
 Estrella - 28019, Moratalaz - Madrid                
 
 
-**Because of the current sittuation due to Covid it is highly recomendable to have an appointment, or if not we may not be able to attend you.*
+**Because of the current sittuation due to Covid compulsory to have an appointment, or if not we may not be able to attend you.*
 For appointment visit us at: www.backfireentertainment.com/contact/support/appointment / Customers are requested to cancel the appointment in case of your inconvenience.
 
