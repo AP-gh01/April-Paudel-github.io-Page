@@ -1,4 +1,4 @@
-## We are the Backfire Entertainment Corp. Welcome to our customer support.
+## We are The Backfire Entertainment Corp. Welcome to our customer support.
 If you have any enquiries realted to our software malfunction or bugs feel free to contact us. Our customers service is active 24/7 and 365 days a year. Mean, **WE NEVER STOP!**
 
 
